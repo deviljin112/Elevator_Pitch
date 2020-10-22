@@ -1,2 +1,3 @@
 # Elevator_Pitch
- 
+
+Hello, my name is Hubert and I would like to explain why I persue learning DevOps. I've finished a business degree and have been programming as a hobby for over 6 years. I've been a part one of the most successful gaming framework development team as well as learned the ins and outs of the business operations process during my university study. As part of which our small team of developers took care of the entire process of development, management, testing and release. Our aproach was very agile and releases were weekly, this allowed us to focus on our goals, reduce wasted time and ensure that the product meets our community's needs. Through extensive research I've discovered that this is called DevOps. Combining Development and operations into one area. Ever since, I've continued to learn and improve my skills to persue my programming passion and start a career in this emerging area of computing.
