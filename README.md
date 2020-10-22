@@ -6,3 +6,4 @@ Hello, my name is Hubert. I've finished a business degree and have been programm
 
 - Role and benefits to company/project
 - What I did and what I enjoyed about what I've done
+- More passion when discussing the successes
